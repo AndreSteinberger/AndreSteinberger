@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreSteinberger
-- 👀 I’m interested in C#, Perl, Java, Web Development, Docker
+- 👀 I’m interested in C#, Perl, Java, Web Development, Docker, PowerShell
 - 🌱 I’m currently learning Docker, ASP.NET
 - 💞️ I’m looking to collaborate on Perl
 - 📫 How to reach me ...
